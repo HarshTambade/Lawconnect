@@ -11,6 +11,7 @@ import Footer from './components/Footer';
 import Dashboard from './components/Dashboard';
 import DocumentGenerator from './components/DocumentGenerator';
 import AIAssistant from './components/AIAssistant';
+import Analytics from "@vercel/analytics/react"
 
 export default function App() {
   return (
